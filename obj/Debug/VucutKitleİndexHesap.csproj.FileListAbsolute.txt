@@ -1,0 +1,11 @@
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\bin\Debug\VucutKitleİndexHesap.exe.config
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\bin\Debug\VucutKitleİndexHesap.exe
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\bin\Debug\VucutKitleİndexHesap.pdb
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.csproj.AssemblyReference.cache
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.Properties.Resources.resources
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.csproj.GenerateResource.cache
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.csproj.CoreCompileInputs.cache
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.exe
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.pdb
+D:\PROJELER\VucutKitleİndexHesap\VucutKitleİndexHesap\obj\Debug\VucutKitleİndexHesap.VKI.resources
